@@ -5,7 +5,7 @@ Hi there, thanks for stopping by, this is **Zero** from **Kolkata,India**.
 
 I usally build cool, interesting discord bots for fun and for learning using discord.js and java, welcome to scroll down to explore [my repos](https://github.com/ZERO-WEEB69), maybe you will love them. 🤍🌹
 
-- 🔭 I’m currently working on discord invite manager with [vihang](https://github.com/noob-dev69)
+- 🔭 I’m currently working on discord bots with [vihang](https://github.com/noob-dev69)
 - 🌱 I’m currently learning Discord.js
 - 📫 You can find me on [discord](https://discord.gg/nadeofficialop) -         [instagram](https://instagram.com/ig_zerosenpa1_69?igshid=esqes5hrtttj)
  
